@@ -170,5 +170,6 @@
   "Reuben": { "desc": "Reuben – first son of Jacob and Leah, founder of the Tribe of Reuben (Reubenites); felt compassion for Joseph when his brothers wanted to kill the brash dreamer and was willing to be responsible to his father for Benjamin’s wellbeing; the Reubenites held a place of honor among the other tribes; occupied territory just east of the Dead Sea and was the first parcel of land to be bestowed", "replacement": "Blaise Zabini" },
   "Simeon": { "desc": "Simeon  – second son of Jacob of Leah; rebuked by Jacob for their violent nature and were to be divided and scattered", "replacement": "Tom Marvolo Riddle" },
   "Zebulun": { "desc": "Zebulun – tenth son of Jacob and sixth by Leah; occupied land between the Sea of Galilee and Mount Carmel; possessed more of the allotted territory than most of the tribes", "replacement": "Quirnius Quirrel" },
-  "Jesus": { "desc": "Jesus – needs no introduction, the savior and central figure of the New Testament", "replacement": "Harry Potter" }
+  "Jesus": { "desc": "Jesus – needs no introduction, the savior and central figure of the New Testament", "replacement": "Harry Potter" },
+  "JESUS": { "desc": "Jesus – needs no introduction, the savior and central figure of the New Testament", "replacement": "HARRY POTTER" }
 }
