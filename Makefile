@@ -4,7 +4,7 @@ HOMEDIR = $(shell pwd)
 SSHCMD = ssh $(USER)@$(SERVER)
 
 fsu:
-	node tools/personalize-with-fsu.js --seed hey --linesToPassThrough=35 > fucking-bible.html
+	node tools/personalize-with-fsu.js --seed hey --linesToPassThrough=35 > site/fucking-bible.html
 
 pushall:
 	git push origin master

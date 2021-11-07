@@ -1,0 +1,54 @@
+body {
+  font-family: Georgia, sans-serif;
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  color: hsl(25, 9%, 11.2%);
+}
+
+section {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  margin-bottom: 2em;
+}
+
+li.pane:only-child {
+  max-width: 90vm;
+}
+
+a:link {
+  color: #333;
+  font-weight: bolder;
+}
+
+a:visited {
+  color: hsl(0, 0%, 30%);
+}
+
+footer {
+  max-width: 800px;
+}
+
+footer > div {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+
+@media all and (max-height: 568px) {
+  .media {
+    max-width: 90%;
+  }
+  li.pane {
+    width: initial;
+  }
+  font-size: 12px;
+}
