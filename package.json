@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jimkang/personalized-bible",
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",
-    "babelify": "^7.3.0",
+    "babelify": "^10.0.0",
     "browserify": "^16.3.0",
     "eslint": "^7.32.0",
     "longjohn": "^0.2.11",
